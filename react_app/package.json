@@ -1,0 +1,23 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "Learning the react concepts and implementing",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --progress"
+  },
+   "devDependencies": {
+              "babel-core": "^5.8.*",
+              "babel-loader": "^5.3.*",
+              "webpack": "^1.12.*",
+              "webpack-dev-server": "^1.10.*"
+            },
+            "dependencies": {
+              "react": "^0.13.*"
+            }, 
+    "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milind Mahajan",
+  "license": "ISC"
+}
